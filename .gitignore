@@ -1,0 +1,4 @@
+src/**/bin
+src/**/obj
+src/**/.vs
+src/Ensek.Api/.vs/Ensek.Api/DesignTimeBuild/.dtbcache.v2
